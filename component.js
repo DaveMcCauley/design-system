@@ -1,3 +1,3 @@
 module.exports = {
-	something: () => console.log('ungabunga');
+	something: () => console.log('a wordpress incompatible change');
 }
